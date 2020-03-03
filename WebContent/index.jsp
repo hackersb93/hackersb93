@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-		깃 변경 연동 테스트 
+		깃 변경 다 연동 테스트 
 </body>
 </html>
